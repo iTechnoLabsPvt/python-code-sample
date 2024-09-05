@@ -19,4 +19,4 @@ To get started with the code samples in this repository, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/iTechnoLabsPvt/python-code-sample.git
-   cd PythonCodeSamples
+   cd python-code-sample
